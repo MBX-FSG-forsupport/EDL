@@ -1,2 +1,3 @@
 *.saint-likes.org
 *.pmdresearch.com
+*checkout.flutterwave.com
